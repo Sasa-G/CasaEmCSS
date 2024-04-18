@@ -1,7 +1,6 @@
 # Casa feita com CSS
 
- ![preview](![image](https://github.com/Sasa-G/CasaEmCSS/assets/142459272/62d7e7a1-ef15-49e2-b444-57f312d7686f)
-)
+<img src="https://github.com/Sasa-G/CasaEmCSS/assets/142459272/62d7e7a1-ef15-49e2-b444-57f312d7686f" alt="">
  
  - Descrição do projeto 
 
